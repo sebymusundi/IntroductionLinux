@@ -260,3 +260,16 @@
   260  hist
   261  history
   262  history > history.txt
+  263  ls
+  264  git status
+  265  gid add history.txt
+  266  git add history.txt
+  267  git status
+  268  git commit -m "Creating Linux command history file"
+  269  git config --global user.name "musundiseby"
+  270  git commit -m "Creating Linux command history file"
+  271  git push -u origin master
+  272  git remote set url https://github.com/sebymusundi/IntroductionLinux.git
+  273  git remote set url origin  https://github.com/sebymusundi/IntroductionLinux.git
+  274  git remote set-url origin  https://github.com/sebymusundi/IntroductionLinux.git
+  275  history > history.txt
